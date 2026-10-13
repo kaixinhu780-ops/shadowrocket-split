@@ -1,0 +1,6 @@
+# Local ChatGPT project mirror and local instructions
+sources/
+AGENTS.md
+.agents/
+.codex/
+.DS_Store
