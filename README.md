@@ -1,6 +1,6 @@
 # Shadowrocket 分流配置
 
-适用于已有节点或订阅的 Shadowrocket 用户，提供国内媒体、国外 AI、Siri / Apple Intelligence、社交与流媒体分流。
+适用于已有节点或订阅的 Shadowrocket 用户，提供国内媒体、国外 AI、Muse、Siri / Apple Intelligence、社交与流媒体分流。
 
 - 常用业务组提供手动选择、自动选择与地区组；地区组位于列表底部。
 - 地区：香港、台湾、日本、新加坡、韩国、美国、英国。
@@ -11,6 +11,10 @@
 配置文件：[shadowrocket-split.conf](./shadowrocket-split.conf)
 
 导入、策略选择、DNS 设计与验证方法：[使用说明](./使用说明.md)
+
+AI 域名及来源：[国外AI域名清单](./国外AI域名清单.md)
+
+2026-10-14 已同步 OpenClash 项目的 43 条新增 AI 条件、Muse 独立组以及剪映、微信、QQ 等国内媒体域名；抖音并入国内媒体。
 
 配置不含节点和密钥，不保证所有系统路径绝对零泄漏。国内直连网站可见直连出口 IP。地区测速不等于平台解锁；Siri / Apple Intelligence 是否可用还取决于设备和功能资格。
 
