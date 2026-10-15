@@ -19,3 +19,5 @@ AI 域名及来源：[国外AI域名清单](./国外AI域名清单.md)
 配置不含节点和密钥，不保证所有系统路径绝对零泄漏。国内直连网站可见直连出口 IP。地区测速不等于平台解锁；Siri / Apple Intelligence 是否可用还取决于设备和功能资格。
 
 公开规则来源与实机验证边界见使用说明。
+
+2026-10-15：Muse 扩展至 555 条 Meta 共享域名条件，Facebook/Instagram/WhatsApp 等命中请求也跟随 Muse。详见 [Muse扩展说明](Muse扩展说明.md)。
